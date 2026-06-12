@@ -1,0 +1,10 @@
+foreign/monitor_config.py
+iran/node_config.py
+*.log
+__pycache__/
+*.pyc
+venv/
+.venv/
+.idea/
+.vscode/
+.DS_Store
